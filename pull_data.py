@@ -27,8 +27,8 @@ from xml.etree import ElementTree as ET
 #       easy_install simplejson
 #       https://github.com/simplejson/simplejson
  
-consumer_key    =   '75am85ycsr7tes'
-consumer_secret =   'Yug1dLEO4oVxlnh2'
+consumer_key    =   ''
+consumer_secret =   ''
 request_token_url = 'https://api.linkedin.com/uas/oauth/requestToken'
 access_token_url =  'https://api.linkedin.com/uas/oauth/accessToken'
 authorize_url =     'https://api.linkedin.com/uas/oauth/authorize'
