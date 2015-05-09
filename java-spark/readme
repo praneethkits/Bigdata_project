@@ -1,0 +1,5 @@
+Steps to compile and run.
+
+mvn package
+
+spark-submit --class org.sparkexample.WordCount --master local[2] ./target/first-example-1.0-SNAPSHOT.jar <input file with full path in hdfs> <outpath in hdfs>
